@@ -1,0 +1,64 @@
+footer {
+    text-align: center;
+}
+
+.gb-footer-legal {
+    background-color: #F6F6F6;
+    padding: 30px 0
+}
+
+.gb-footer-legal .inner-wrapper-footer {
+    display: flex;
+    justify-content: space-between
+}
+
+.gb-footer-disclaimer p,
+.gb-footer-disclaimer strong,
+.gb-footer-disclaimer a {
+    line-height: 18px;
+    font-size: 12px;
+    color: #6B6B6B
+}
+
+.gb-footer-disclaimer strong {
+    display: block
+}
+
+.gb-footer-disclaimer a,
+.gb-footer-disclaimer a:hover {
+    color: #4A90E2
+}
+
+.gb-footer-disclaimer li {
+    margin-right: 10px;
+    margin-top: 15px
+}
+
+.gb-footer-disclaimer li+li {
+    border-left: 1px solid #E2E2E2;
+    padding-left: 10px
+}
+
+.gb-footer-logoslegal {
+    padding-left: 30px
+}
+
+.gb-footer-logoslegal ul {
+    white-space: nowrap;
+    overflow: auto;
+    margin-top: 22px
+}
+
+.gb-footer-logoslegal a,
+.gb-footer-logoslegal img {
+    display: block;
+    float: left
+}
+
+.gb-footer-logoslegal a {
+    margin-left: 10px
+}
+
+.gb-footer-logoslegal img {
+    height: 40px
+}
